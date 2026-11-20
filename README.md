@@ -8,7 +8,7 @@ An end-to-end analytics workspace for telecom retention decisions. The project c
 - **Is the expected retained value greater than the offer cost?**
 
 The project includes reusable Python modules, Jupyter notebooks, generated analytical artifacts, and an interactive Streamlit dashboard.
-
+🔗 **Live Demo:** https://customer-lifetime-value-and-churn.onrender.com
 ## What the system does
 
 1. Loads the IBM Telco Customer Churn dataset and engineers domain features.
